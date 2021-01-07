@@ -23,7 +23,7 @@ gunicorn==19.3.0
 html-tree-diff==0.1.2
 html5lib==0.999
 itsdangerous==0.24
-lxml==3.4.2
+lxml==4.6.2
 passlib==1.6.2
 psycopg2==2.6
 py-bcrypt==0.4
